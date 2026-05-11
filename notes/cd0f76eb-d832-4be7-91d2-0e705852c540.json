@@ -1,0 +1,1 @@
+{"title":"function complexed","message":"function foo(num1, num2) {\nif (num1 < num2) {\nreturn num2;\n} else {\nreturn num1;\n}\n}\nvar result = food(5, 10);","id":"cd0f76eb-d832-4be7-91d2-0e705852c540","date":"2026-05-11T17:30:54.976Z"}
