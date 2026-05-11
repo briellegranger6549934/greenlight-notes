@@ -1,0 +1,1 @@
+{"title":"var arr","message":"var arr = [12345, 9999, 3.14, 54321];\n\nfor(var i = 0; i < arr.length; i++){\nconsole.log(arr[i);\n}","id":"1e870961-005f-46ae-8304-19569fccb312","date":"2026-05-11T17:23:10.599Z"}
